@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nea</h1>
 <h3 align="center">A professional Typescript developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nealol&label=Profile%20views&color=0e75b6&style=flat" alt="nealol" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nealol&label=Profile%20views&color=0e75b6&style=flat" alt="nealol" /> </p>
 
 - 🔭 I’m currently working on [Lilith](https://lilith.rip)
 
